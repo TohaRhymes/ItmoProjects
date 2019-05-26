@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="315.2572423706324" y="3291.0">MainClient</node>
+    <node x="996.0072423706324" y="1820.0">MainFrame</node>
+    <node x="1570.9358137992037" y="535.5">TimeTraveller</node>
+    <node x="574.2572423706324" y="1458.0">Menu</node>
+    <node x="1458.3426470588229" y="2983.0">ClientReceiver</node>
+    <node x="1757.922088309007" y="0.0">OurDate</node>
+    <node x="57.99999999999977" y="2139.0">LoginOrRegisterWindow</node>
+    <node x="1121.7929566563466" y="513.0">Circle</node>
+    <node x="325.34599734630615" y="249.0">localization.LocalizationManager</node>
+    <node x="1285.9358137992037" y="1200.0">MyTable</node>
+    <node x="326.2572423706324" y="1502.5">ClientMSG</node>
+    <node x="1137.0072423706324" y="1513.0">GraphicsPanel</node>
+    <node x="1924.7572423706322" y="1256.0">Run</node>
+    <node x="1130.672088309007" y="22.5">Point</node>
+    <node x="246.33333333333326" y="3004.5">ServerConnect</node>
+    <node x="887.9447423706324" y="3748.0">ServerMSG</node>
+    <node x="1708.7572423706324" y="1267.0">ForJson</node>
+    <node x="848.2572423706324" y="1524.0">ImagePanel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MainFrame" target="TimeTraveller">
+      <point x="124.28571428571422" y="-556.5" />
+      <point x="1250.7929566563466" y="1800.0" />
+      <point x="1682.6317116320204" y="1800.0" />
+      <point x="1682.6317116320204" y="1170.0" />
+      <point x="1713.0786709420609" y="1170.0" />
+      <point x="-56.85714285714289" y="149.0" />
+    </edge>
+    <edge source="LoginOrRegisterWindow" target="ClientMSG">
+      <point x="83.66666666666674" y="-237.5" />
+      <point x="267.1666666666665" y="1800.0" />
+      <point x="345.2572423706324" y="1800.0" />
+      <point x="-95.0" y="71.5" />
+    </edge>
+    <edge source="ForJson" target="TimeTraveller">
+      <point x="0.0" y="-27.0" />
+      <point x="1806.7572423706324" y="1180.0" />
+      <point x="1826.7929566563466" y="1180.0" />
+      <point x="56.85714285714289" y="149.0" />
+    </edge>
+    <edge source="ClientReceiver" target="MainFrame">
+      <point x="-71.66666666666669" y="-94.0" />
+      <point x="1494.1759803921561" y="2958.0" />
+      <point x="1224.3822423706324" y="2958.0" />
+      <point x="97.875" y="556.5" />
+    </edge>
+    <edge source="LoginOrRegisterWindow" target="localization.LocalizationManager">
+      <point x="0.0" y="-237.5" />
+      <point x="183.49999999999977" y="1800.0" />
+      <point x="147.16666666666652" y="1800.0" />
+      <point x="147.16666666666652" y="1180.0" />
+      <point x="417.59599734630615" y="1180.0" />
+      <point x="-10.25" y="435.5" />
+    </edge>
+    <edge source="MyTable" target="TimeTraveller">
+      <point x="84.33333333333337" y="-94.0" />
+      <point x="1496.769147132537" y="1180.0" />
+      <point x="1599.364385227775" y="1180.0" />
+      <point x="-170.57142857142856" y="149.0" />
+    </edge>
+    <edge source="ClientReceiver" target="ServerMSG">
+      <point x="80.625" y="94.0" />
+      <point x="1646.4676470588229" y="3271.0" />
+      <point x="1592.1322423706324" y="3271.0" />
+      <point x="1592.1322423706324" y="3723.0" />
+      <point x="1121.9447423706324" y="3723.0" />
+      <point x="78.0" y="-94.5" />
+    </edge>
+    <edge source="MainFrame" target="MainClient">
+      <point x="-97.875" y="556.5" />
+      <point x="1028.6322423706324" y="2958.0" />
+      <point x="1082.8822423706324" y="2958.0" />
+      <point x="1082.8822423706324" y="3201.0" />
+      <point x="523.1519792127376" y="3201.0" />
+      <point x="49.8947368421052" y="-203.5" />
+    </edge>
+    <edge source="MainFrame" target="Point">
+      <point x="87.0" y="-556.5" />
+      <point x="1213.5072423706324" y="1770.0" />
+      <point x="1549.4358137992037" y="1770.0" />
+      <point x="1549.4358137992037" y="219.0" />
+      <point x="1309.172088309007" y="219.0" />
+      <point x="76.5" y="72.0" />
+    </edge>
+    <edge source="MyTable" target="MainClient">
+      <point x="72.28571428571422" y="94.0" />
+      <point x="1484.721528084918" y="1438.0" />
+      <point x="1425.3459973463061" y="1438.0" />
+      <point x="1425.3459973463061" y="3231.0" />
+      <point x="573.0467160548428" y="3231.0" />
+      <point x="99.7894736842104" y="-203.5" />
+    </edge>
+    <edge source="ClientReceiver" target="MainClient">
+      <point x="26.875" y="94.0" />
+      <point x="1592.7176470588229" y="3261.0" />
+      <point x="622.9414528969482" y="3261.0" />
+      <point x="149.68421052631584" y="-203.5" />
+    </edge>
+    <edge source="ServerConnect" target="MainClient">
+      <point x="69.66666666666674" y="72.5" />
+      <point x="420.5" y="3191.0" />
+      <point x="456.6256634232641" y="3191.0" />
+      <point x="-16.631578947368325" y="-203.5" />
+    </edge>
+    <edge source="ClientReceiver" target="TimeTraveller">
+      <point x="71.66666666666674" y="-94.0" />
+      <point x="1637.5093137254896" y="2958.0" />
+      <point x="1698.2572423706324" y="2958.0" />
+      <point x="1698.2572423706324" y="1180.0" />
+      <point x="1769.9358137992037" y="1180.0" />
+      <point x="0.0" y="149.0" />
+    </edge>
+    <edge source="ServerConnect" target="ClientMSG">
+      <point x="0.0" y="-72.5" />
+      <point x="350.83333333333326" y="1800.0" />
+      <point x="383.2572423706324" y="1800.0" />
+      <point x="-57.0" y="71.5" />
+    </edge>
+    <edge source="TimeTraveller" target="OurDate">
+      <point x="132.66666666666663" y="-149.0" />
+      <point x="1902.6024804658705" y="229.0" />
+      <point x="1844.8387549756735" y="229.0" />
+      <point x="12.416666666666629" y="94.5" />
+    </edge>
+    <edge source="Menu" target="MainClient">
+      <point x="-95.25" y="116.0" />
+      <point x="606.0072423706324" y="3191.0" />
+      <point x="506.5204002653693" y="3191.0" />
+      <point x="33.26315789473688" y="-203.5" />
+    </edge>
+    <edge source="ServerMSG" target="MainClient">
+      <point x="-78.0" y="-94.5" />
+      <point x="965.9447423706324" y="3723.0" />
+      <point x="473.2572423706324" y="3723.0" />
+      <point x="0.0" y="203.5" />
+    </edge>
+    <edge source="MainFrame" target="ImagePanel">
+      <point x="-49.714285714285666" y="-556.5" />
+      <point x="1076.7929566563466" y="1740.0" />
+      <point x="999.7572423706324" y="1740.0" />
+      <point x="50.5" y="50.0" />
+    </edge>
+    <edge source="MyTable" target="localization.LocalizationManager">
+      <point x="-84.33333333333326" y="-94.0" />
+      <point x="1328.1024804658705" y="1140.0" />
+      <point x="520.0959973463061" y="1140.0" />
+      <point x="92.25" y="435.5" />
+    </edge>
+    <edge source="MainFrame" target="Circle">
+      <point x="0.0" y="-556.5" />
+      <point x="1126.5072423706324" y="1180.0" />
+      <point x="1157.5429566563466" y="1180.0" />
+      <point x="-107.25" y="171.5" />
+    </edge>
+    <edge source="GraphicsPanel" target="MyTable">
+      <point x="67.33333333333337" y="-61.0" />
+      <point x="1305.3405757039657" y="1438.0" />
+      <point x="1304.0072423706324" y="1438.0" />
+      <point x="-108.42857142857144" y="94.0" />
+    </edge>
+    <edge source="MainClient" target="MainFrame">
+      <point x="83.15789473684208" y="-203.5" />
+      <point x="556.4151371074745" y="3221.0" />
+      <point x="1104.8822423706324" y="3221.0" />
+      <point x="1104.8822423706324" y="2958.0" />
+      <point x="1159.1322423706324" y="2958.0" />
+      <point x="32.625" y="556.5" />
+    </edge>
+    <edge source="ClientReceiver" target="MyTable">
+      <point x="0.0" y="-94.0" />
+      <point x="1565.8426470588229" y="2958.0" />
+      <point x="1511.5072423706324" y="2958.0" />
+      <point x="1511.5072423706324" y="1438.0" />
+      <point x="1520.864385227775" y="1438.0" />
+      <point x="108.42857142857144" y="94.0" />
+    </edge>
+    <edge source="MainClient" target="ClientReceiver">
+      <point x="133.05263157894728" y="-203.5" />
+      <point x="606.3098739495797" y="3251.0" />
+      <point x="1538.9676470588229" y="3251.0" />
+      <point x="-26.875" y="94.0" />
+    </edge>
+    <edge source="ClientMSG" target="MainClient">
+      <point x="19.0" y="71.5" />
+      <point x="459.2572423706324" y="1790.0" />
+      <point x="476.8333333333332" y="1790.0" />
+      <point x="476.8333333333332" y="3261.0" />
+      <point x="489.88882131800074" y="3261.0" />
+      <point x="16.631578947368325" y="-203.5" />
+    </edge>
+    <edge source="MainClient" target="localization.LocalizationManager">
+      <point x="-149.68421052631584" y="-203.5" />
+      <point x="323.5730318443166" y="3271.0" />
+      <point x="25.5" y="3271.0" />
+      <point x="25.5" y="1140.0" />
+      <point x="335.59599734630615" y="1140.0" />
+      <point x="-92.25" y="435.5" />
+    </edge>
+    <edge source="MainClient" target="LoginOrRegisterWindow">
+      <point x="-99.7894736842104" y="-203.5" />
+      <point x="373.467768686422" y="3241.0" />
+      <point x="142.59264705882288" y="3241.0" />
+      <point x="142.59264705882288" y="2958.0" />
+      <point x="99.83333333333303" y="2958.0" />
+      <point x="-83.66666666666674" y="237.5" />
+    </edge>
+    <edge source="MainFrame" target="OurDate">
+      <point x="99.42857142857133" y="-556.5" />
+      <point x="1225.9358137992037" y="1780.0" />
+      <point x="1560.4358137992037" y="1780.0" />
+      <point x="1560.4358137992037" y="209.0" />
+      <point x="1770.3387549756737" y="209.0" />
+      <point x="-62.08333333333326" y="94.5" />
+    </edge>
+    <edge source="MainClient" target="ServerConnect">
+      <point x="-49.8947368421052" y="-203.5" />
+      <point x="423.3625055285272" y="3211.0" />
+      <point x="281.1666666666665" y="3211.0" />
+      <point x="-69.66666666666674" y="72.5" />
+    </edge>
+    <edge source="Menu" target="localization.LocalizationManager">
+      <point x="63.5" y="-116.0" />
+      <point x="764.7572423706324" y="1438.0" />
+      <point x="703.172088309007" y="1438.0" />
+      <point x="703.172088309007" y="1170.0" />
+      <point x="458.59599734630615" y="1170.0" />
+      <point x="30.75" y="435.5" />
+    </edge>
+    <edge source="MainFrame" target="ClientMSG">
+      <point x="-124.28571428571422" y="-556.5" />
+      <point x="1002.2215280849182" y="1800.0" />
+      <point x="497.2572423706324" y="1800.0" />
+      <point x="57.0" y="71.5" />
+    </edge>
+    <edge source="LoginOrRegisterWindow" target="MainClient">
+      <point x="0.0" y="237.5" />
+      <point x="183.49999999999977" y="2958.0" />
+      <point x="190.92390903729904" y="2958.0" />
+      <point x="190.92390903729904" y="3231.0" />
+      <point x="390.09934763379033" y="3231.0" />
+      <point x="-83.15789473684208" y="-203.5" />
+    </edge>
+    <edge source="Run" target="OurDate">
+      <point x="31.375" y="-38.0" />
+      <point x="2081.6322423706324" y="1180.0" />
+      <point x="2103.9676360017684" y="1180.0" />
+      <point x="2103.9676360017684" y="219.0" />
+      <point x="1869.672088309007" y="219.0" />
+      <point x="37.25" y="94.5" />
+    </edge>
+    <edge source="MainFrame" target="GraphicsPanel">
+      <point x="12.428571428571445" y="-556.5" />
+      <point x="1138.9358137992037" y="1710.0" />
+      <point x="1187.5072423706324" y="1710.0" />
+      <point x="-50.5" y="61.0" />
+    </edge>
+    <edge source="MyTable" target="MainFrame">
+      <point x="-72.28571428571433" y="94.0" />
+      <point x="1340.1500995134893" y="1438.0" />
+      <point x="1349.5072423706324" y="1438.0" />
+      <point x="1349.5072423706324" y="1730.0" />
+      <point x="1163.7929566563466" y="1730.0" />
+      <point x="37.285714285714334" y="-556.5" />
+    </edge>
+    <edge source="MainFrame" target="MyTable">
+      <point x="74.57142857142867" y="-556.5" />
+      <point x="1201.078670942061" y="1760.0" />
+      <point x="1386.6317116320206" y="1760.0" />
+      <point x="1386.6317116320206" y="1428.0" />
+      <point x="1448.5786709420609" y="1428.0" />
+      <point x="36.14285714285711" y="94.0" />
+    </edge>
+    <edge source="Menu" target="MainFrame">
+      <point x="95.25" y="116.0" />
+      <point x="796.5072423706324" y="1760.0" />
+      <point x="1051.935813799204" y="1760.0" />
+      <point x="-74.57142857142844" y="-556.5" />
+    </edge>
+    <edge source="MainFrame" target="Menu">
+      <point x="-99.42857142857133" y="-556.5" />
+      <point x="1027.078670942061" y="1780.0" />
+      <point x="669.5072423706324" y="1780.0" />
+      <point x="-31.75" y="116.0" />
+    </edge>
+    <edge source="MyTable" target="Circle">
+      <point x="0.0" y="-94.0" />
+      <point x="1412.4358137992037" y="1180.0" />
+      <point x="1372.0429566563466" y="1180.0" />
+      <point x="107.25" y="171.5" />
+    </edge>
+    <edge source="GraphicsPanel" target="Circle">
+      <point x="-67.33333333333326" y="-61.0" />
+      <point x="1170.6739090372992" y="1438.0" />
+      <point x="1201.003350287483" y="1438.0" />
+      <point x="1201.003350287483" y="1180.0" />
+      <point x="1229.0429566563466" y="1180.0" />
+      <point x="-35.75" y="171.5" />
+    </edge>
+    <edge source="Run" target="TimeTraveller">
+      <point x="-94.125" y="-38.0" />
+      <point x="1956.1322423706322" y="1180.0" />
+      <point x="1883.6500995134895" y="1180.0" />
+      <point x="113.71428571428578" y="149.0" />
+    </edge>
+    <edge source="MainClient" target="ClientMSG">
+      <point x="0.0" y="-203.5" />
+      <point x="473.2572423706324" y="3271.0" />
+      <point x="465.8333333333332" y="3271.0" />
+      <point x="465.8333333333332" y="1800.0" />
+      <point x="421.2572423706324" y="1800.0" />
+      <point x="-19.0" y="71.5" />
+    </edge>
+    <edge source="Circle" target="Point">
+      <point x="-71.5" y="-171.5" />
+      <point x="1193.2929566563466" y="229.0" />
+      <point x="1207.172088309007" y="229.0" />
+      <point x="-25.5" y="72.0" />
+    </edge>
+    <edge source="MainFrame" target="localization.LocalizationManager">
+      <point x="-37.28571428571422" y="-556.5" />
+      <point x="1089.2215280849182" y="1730.0" />
+      <point x="1060.7572423706324" y="1730.0" />
+      <point x="1060.7572423706324" y="1160.0" />
+      <point x="479.09599734630615" y="1160.0" />
+      <point x="51.25" y="435.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.2" x="4583.921588512014" y="878.9809091409168" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
