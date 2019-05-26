@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="gson-2.8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postgresql-42.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsch-0.1.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/apache-commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/smtp-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lombok-1.18.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-simple-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

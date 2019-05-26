@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="194.0" y="1075.0">LauncherApp</node>
+    <node x="190.39705882352945" y="0.0">Gadkinz</node>
+    <node x="93.69705882352943" y="851.0">InstructionsExecutor</node>
+    <node x="70.75" y="605.0">Manager</node>
+    <node x="47.0" y="369.0">EnvNameException</node>
+    <node x="267.5142156862745" y="258.0">GadkinzSpot</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Manager" target="Gadkinz">
+      <point x="-87.19999999999996" y="-93.0" />
+      <point x="92.55000000000004" y="585.0" />
+      <point x="36.5" y="585.0" />
+      <point x="36.5" y="238.0" />
+      <point x="263.2970588235294" y="238.0" />
+      <point x="-48.60000000000001" y="104.0" />
+    </edge>
+    <edge source="LauncherApp" target="GadkinzSpot">
+      <point x="40.75" y="-26.0" />
+      <point x="316.25" y="1045.0" />
+      <point x="444.1970588235294" y="1045.0" />
+      <point x="444.1970588235294" y="585.0" />
+      <point x="431.7642156862745" y="585.0" />
+      <point x="54.749999999999986" y="148.5" />
+    </edge>
+    <edge source="Manager" target="EnvNameException">
+      <point x="-43.599999999999966" y="-93.0" />
+      <point x="136.15000000000003" y="575.0" />
+      <point x="91.25" y="575.0" />
+      <point x="-44.25" y="37.5" />
+    </edge>
+    <edge source="Manager" target="GadkinzSpot">
+      <point x="87.19999999999999" y="-93.0" />
+      <point x="266.95" y="585.0" />
+      <point x="322.2642156862745" y="585.0" />
+      <point x="-54.75" y="148.5" />
+    </edge>
+    <edge source="LauncherApp" target="Manager">
+      <point x="-40.75" y="-26.0" />
+      <point x="234.75" y="1045.0" />
+      <point x="83.1970588235294" y="1045.0" />
+      <point x="83.1970588235294" y="831.0" />
+      <point x="152.5" y="831.0" />
+      <point x="-27.25" y="93.0" />
+    </edge>
+    <edge source="GadkinzSpot" target="Gadkinz">
+      <point x="73.0" y="-148.5" />
+      <point x="450.0142156862745" y="238.0" />
+      <point x="409.09705882352944" y="238.0" />
+      <point x="97.19999999999999" y="104.0" />
+    </edge>
+    <edge source="InstructionsExecutor" target="Gadkinz">
+      <point x="-136.0" y="-82.0" />
+      <point x="127.69705882352943" y="811.0" />
+      <point x="25.5" y="811.0" />
+      <point x="25.5" y="228.0" />
+      <point x="214.69705882352943" y="228.0" />
+      <point x="-97.2" y="104.0" />
+    </edge>
+    <edge source="InstructionsExecutor" target="GadkinzSpot">
+      <point x="136.0" y="-82.0" />
+      <point x="399.69705882352946" y="831.0" />
+      <point x="413.13823529411764" y="831.0" />
+      <point x="413.13823529411764" y="575.0" />
+      <point x="395.2642156862745" y="575.0" />
+      <point x="18.249999999999986" y="148.5" />
+    </edge>
+    <edge source="InstructionsExecutor" target="Manager">
+      <point x="-68.0" y="-82.0" />
+      <point x="195.69705882352943" y="831.0" />
+      <point x="207.0" y="831.0" />
+      <point x="27.25" y="93.0" />
+    </edge>
+    <edge source="LauncherApp" target="InstructionsExecutor">
+      <point x="-13.583333333333343" y="-26.0" />
+      <point x="261.9166666666667" y="1035.0" />
+      <point x="178.69705882352943" y="1035.0" />
+      <point x="-85.0" y="82.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-85.67857142857144" y="344.2857142857143" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

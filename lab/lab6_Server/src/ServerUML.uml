@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="514.1387147716229" y="0.0">OurDate</node>
+    <node x="164.9999999999999" y="1239.0">CommandParse</node>
+    <node x="10.913228862973597" y="310.5">Connect</node>
+    <node x="478.5" y="1607.0">MainServer</node>
+    <node x="520.4999999999999" y="631.0">DBCommands</node>
+    <node x="119.45285471331374" y="940.0">AvailableCommands</node>
+    <node x="956.4999999999999" y="730.0">ForJson</node>
+    <node x="252.0" y="1340.0">ServerThread</node>
+    <node x="885.9999999999998" y="256.0">TimeTraveller</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MainServer" target="TimeTraveller">
+      <point x="68.75" y="-25.5" />
+      <point x="629.75" y="1587.0" />
+      <point x="1246.0" y="1587.0" />
+      <point x="1246.0" y="611.0" />
+      <point x="1292.875" y="611.0" />
+      <point x="189.8750000000001" y="147.5" />
+    </edge>
+    <edge source="ForJson" target="TimeTraveller">
+      <point x="0.0" y="-25.5" />
+      <point x="1068.5" y="611.0" />
+      <point x="1021.6249999999998" y="611.0" />
+      <point x="-81.375" y="147.5" />
+    </edge>
+    <edge source="CommandParse" target="DBCommands">
+      <point x="99.0" y="-25.5" />
+      <point x="659.9999999999999" y="1214.0" />
+      <point x="778.9528547133137" y="1214.0" />
+      <point x="778.9528547133137" y="900.0" />
+      <point x="728.4999999999999" y="900.0" />
+      <point x="0.0" y="124.5" />
+    </edge>
+    <edge source="CommandParse" target="TimeTraveller">
+      <point x="297.0" y="-25.5" />
+      <point x="857.9999999999999" y="1214.0" />
+      <point x="1202.0" y="1214.0" />
+      <point x="1202.0" y="601.0" />
+      <point x="1130.1249999999998" y="601.0" />
+      <point x="27.125" y="147.5" />
+    </edge>
+    <edge source="CommandParse" target="AvailableCommands">
+      <point x="-99.0" y="-25.5" />
+      <point x="461.9999999999999" y="1214.0" />
+      <point x="443.95285471331374" y="1214.0" />
+      <point x="0.0" y="124.5" />
+    </edge>
+    <edge source="AvailableCommands" target="Connect">
+      <point x="-270.41666666666674" y="-124.5" />
+      <point x="173.536188046647" y="920.0" />
+      <point x="215.78038143828945" y="920.0" />
+      <point x="215.78038143828945" y="611.0" />
+      <point x="190.05608600583082" y="611.0" />
+      <point x="65.14285714285722" y="93.0" />
+    </edge>
+    <edge source="MainServer" target="DBCommands">
+      <point x="41.25" y="-25.5" />
+      <point x="602.25" y="1577.0" />
+      <point x="1235.0" y="1577.0" />
+      <point x="1235.0" y="900.0" />
+      <point x="867.1666666666665" y="900.0" />
+      <point x="138.66666666666663" y="124.5" />
+    </edge>
+    <edge source="AvailableCommands" target="ForJson">
+      <point x="162.25" y="-124.5" />
+      <point x="606.2028547133137" y="910.0" />
+      <point x="1068.5" y="910.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="ServerThread" target="TimeTraveller">
+      <point x="247.19999999999993" y="-103.5" />
+      <point x="808.1999999999999" y="1320.0" />
+      <point x="1224.0" y="1320.0" />
+      <point x="1224.0" y="611.0" />
+      <point x="1238.625" y="611.0" />
+      <point x="135.6250000000001" y="147.5" />
+    </edge>
+    <edge source="AvailableCommands" target="DBCommands">
+      <point x="54.08333333333337" y="-124.5" />
+      <point x="498.0361880466471" y="920.0" />
+      <point x="589.8333333333333" y="920.0" />
+      <point x="-138.66666666666663" y="124.5" />
+    </edge>
+    <edge source="AvailableCommands" target="TimeTraveller">
+      <point x="270.41666666666663" y="-124.5" />
+      <point x="714.3695213799804" y="920.0" />
+      <point x="1191.0" y="920.0" />
+      <point x="1191.0" y="611.0" />
+      <point x="1075.8749999999998" y="611.0" />
+      <point x="-27.125" y="147.5" />
+    </edge>
+    <edge source="ServerThread" target="CommandParse">
+      <point x="-1.1368683772161603E-13" y="-103.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="CommandParse" target="Connect">
+      <point x="-297.0" y="-25.5" />
+      <point x="263.9999999999999" y="1214.0" />
+      <point x="108.95285471331374" y="1214.0" />
+      <point x="108.95285471331374" y="611.0" />
+      <point x="157.4846574344022" y="611.0" />
+      <point x="32.57142857142861" y="93.0" />
+    </edge>
+    <edge source="ServerThread" target="Connect">
+      <point x="-123.60000000000008" y="-103.5" />
+      <point x="437.3999999999999" y="1310.0" />
+      <point x="48.70285471331374" y="1310.0" />
+      <point x="48.70285471331374" y="601.0" />
+      <point x="124.9132288629736" y="601.0" />
+      <point x="0.0" y="93.0" />
+    </edge>
+    <edge source="DBCommands" target="OurDate">
+      <point x="0.0" y="-124.5" />
+      <point x="728.4999999999999" y="611.0" />
+      <point x="721.082628765792" y="611.0" />
+      <point x="721.082628765792" y="236.0" />
+      <point x="602.6387147716229" y="236.0" />
+      <point x="0.0" y="93.0" />
+    </edge>
+    <edge source="MainServer" target="ServerThread">
+      <point x="13.75" y="-25.5" />
+      <point x="574.75" y="1567.0" />
+      <point x="715.5" y="1567.0" />
+      <point x="154.5" y="103.5" />
+    </edge>
+    <edge source="TimeTraveller" target="OurDate">
+      <point x="144.66666666666686" y="-147.5" />
+      <point x="1247.6666666666665" y="206.0" />
+      <point x="678.4958576287657" y="206.0" />
+      <point x="75.85714285714289" y="93.0" />
+    </edge>
+    <edge source="AvailableCommands" target="OurDate">
+      <point x="-54.08333333333337" y="-124.5" />
+      <point x="389.86952137998037" y="910.0" />
+      <point x="284.4941933916423" y="910.0" />
+      <point x="284.4941933916423" y="236.0" />
+      <point x="552.0672862001943" y="236.0" />
+      <point x="-50.571428571428555" y="93.0" />
+    </edge>
+    <edge source="MainServer" target="Connect">
+      <point x="-68.75" y="-25.5" />
+      <point x="492.25" y="1587.0" />
+      <point x="14.5" y="1587.0" />
+      <point x="14.5" y="571.0" />
+      <point x="27.19894314868793" y="571.0" />
+      <point x="-97.71428571428567" y="93.0" />
+    </edge>
+    <edge source="DBCommands" target="TimeTraveller">
+      <point x="83.20000000000005" y="-124.5" />
+      <point x="811.6999999999999" y="601.0" />
+      <point x="913.1249999999998" y="601.0" />
+      <point x="-189.875" y="147.5" />
+    </edge>
+    <edge source="DBCommands" target="Connect">
+      <point x="-166.39999999999992" y="-124.5" />
+      <point x="562.0999999999999" y="611.0" />
+      <point x="222.62751457725938" y="611.0" />
+      <point x="97.71428571428578" y="93.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3363858363858364" x="518.2259359391641" y="809.467458677686" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

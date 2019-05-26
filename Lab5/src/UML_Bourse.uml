@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="495.0" y="923.0">Gadkinz</node>
+    <node x="225.0" y="644.0">Businessman</node>
+    <node x="437.5" y="0.0">CommonHuman</node>
+    <node x="132.0" y="1153.0">NoMoneyException</node>
+    <node x="1083.0" y="0.0">Shares</node>
+    <node x="168.25" y="355.0">Business</node>
+    <node x="437.5" y="211.0">Human</node>
+    <node x="548.0" y="1153.0">TryStart</node>
+    <node x="785.0" y="0.0">Bourse</node>
+    <node x="390.0" y="1153.0">Newspaper</node>
+    <node x="0.0" y="1153.0">Mood</node>
+    <node x="202.0" y="945.0">Scooperfield</node>
+    <node x="472.0" y="699.5">Seller</node>
+    <node x="0.0" y="945.5">Spruts</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Human" target="CommonHuman">
+      <point x="0.0" y="-191.5" />
+      <point x="0.0" y="80.5" />
+    </edge>
+    <edge source="Businessman" target="Business">
+      <point x="-56.75" y="-114.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Seller" target="Human">
+      <point x="0.0" y="-59.0" />
+      <point x="54.0" y="191.5" />
+    </edge>
+    <edge source="Spruts" target="Businessman">
+      <point x="0.0" y="-70.0" />
+      <point x="91.0" y="898.0" />
+      <point x="262.8333333333333" y="898.0" />
+      <point x="-75.66666666666669" y="114.5" />
+    </edge>
+    <edge source="Businessman" target="Human">
+      <point x="56.75" y="-114.5" />
+      <point x="395.25" y="619.0" />
+      <point x="491.5" y="619.0" />
+      <point x="-54.0" y="191.5" />
+    </edge>
+    <edge source="Scooperfield" target="Businessman">
+      <point x="0.0" y="-70.5" />
+      <point x="0.0" y="114.5" />
+    </edge>
+    <edge source="Gadkinz" target="Businessman">
+      <point x="0.0" y="-92.5" />
+      <point x="617.5" y="898.0" />
+      <point x="414.1666666666667" y="898.0" />
+      <point x="75.66666666666669" y="114.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7659266409266409" x="726.1510303200804" y="339.6950220541903" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

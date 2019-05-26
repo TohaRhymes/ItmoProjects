@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab6_Client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdcc04b9-fbcc-49ed-8592-210360124e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok-1.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/ChangePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/ClientMSG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/GraphicsPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/LoginOrRegisterWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/MyTable$TardisModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/MyTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/ServerConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/ServerMSG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/buttons.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/buttons_el_GR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/buttons_es_HN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/buttons_et_EE.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/titles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/titles_el_GR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/titles_es_HN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab6_Client/localization/asciiFiles/titles_et_EE.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slf4j-simple-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChangePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphicsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginOrRegisterWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/LocalizationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/buttons.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/buttons_el_GR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/buttons_es_HN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/buttons_et_EE.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/titles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/titles_el_GR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/titles_es_HN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/asciiFiles/titles_et_EE.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/lombok-1.18.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/ClientMSG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/ServerMSG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/slf4j-simple-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/src/ClientMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/src/ServerMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6_Server/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/ClientUML.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/ForJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/MainClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/OurDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6_Client/TimeTraveller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientUML.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeTraveller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeTraveller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/.idea/libraries/gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/AvailableCommands$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/AvailableCommands$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/AvailableCommands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/AvailableCommands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/CommandParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/CommandParse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/Connect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/Connect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/DBCommands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/DBCommands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/MainServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/MainServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/TimeTraveller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/out/production/lab6_Server/TimeTraveller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/AvailableCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/AvailableCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/CommandParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/CommandParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/DBCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/DBCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/MainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/MainServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6_Server/src/TimeTraveller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6_Server/src/TimeTraveller.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lab6_Client$MainClient.ic" NAME="MainClient Coverage Results" MODIFIED="1554066137251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClientMSG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginOrRegisterWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2662">
+              <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="109" column="38" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ImagePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3366">
+              <caret line="153" selection-start-line="153" selection-end-line="153" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphicsPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding>
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="29" column="45" selection-start-line="27" selection-start-column="16" selection-end-line="29" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="108" column="156" selection-start-line="108" selection-start-column="156" selection-end-line="108" selection-end-column="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>некорр</find>
+      <find>import</find>
+      <find>set</find>
+      <find>REGI</find>
+      <find>пароль</find>
+      <find>С</find>
+      <find>update</find>
+      <find>setT</find>
+      <find>SetTr</find>
+      <find>sorter</find>
+      <find>getX</find>
+      <find>new Login</find>
+      <find>addButton</find>
+      <find>suc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\anton\IdeaProjects\lab6_Client</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/TravellersCollection.java" />
+        <option value="$PROJECT_DIR$/ClientInf.csv" />
+        <option value="$PROJECT_DIR$/src/ForJson.java" />
+        <option value="$PROJECT_DIR$/src/OurDate.java" />
+        <option value="$PROJECT_DIR$/src/Run.java" />
+        <option value="$PROJECT_DIR$/src/TableSorted.java" />
+        <option value="$PROJECT_DIR$/src/JOptionPaneTest.java" />
+        <option value="$PROJECT_DIR$/src/MSG.java" />
+        <option value="$PROJECT_DIR$/src/ServerMSG.java" />
+        <option value="$PROJECT_DIR$/src/ClientMSG.java" />
+        <option value="$PROJECT_DIR$/src/Mrrr.form" />
+        <option value="$PROJECT_DIR$/src/ChangePanel.java" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/buttons.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/buttons_el_GR.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/buttons_es_HN.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/buttons_et_EE.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/titles.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/titles_et_EE.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/titles_el_GR.properties" />
+        <option value="$PROJECT_DIR$/src/localization/asciiFiles/titles_es_HN.properties" />
+        <option value="$PROJECT_DIR$/src/localization/LocalizationManager.java" />
+        <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/LanguageMenu.java" />
+        <option value="$PROJECT_DIR$/src/CreateWindow.java" />
+        <option value="$PROJECT_DIR$/src/GraphicsPanel.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/MyTable.java" />
+        <option value="$PROJECT_DIR$/src/Menu.java" />
+        <option value="$PROJECT_DIR$/src/LoginOrRegisterWindow.java" />
+        <option value="$PROJECT_DIR$/src/TimeTraveller.java" />
+        <option value="$PROJECT_DIR$/src/MainClient.java" />
+        <option value="$PROJECT_DIR$/src/ClientReciever.java" />
+        <option value="$PROJECT_DIR$/src/ClientReceiver.java" />
+        <option value="$PROJECT_DIR$/src/ServerConnect.java" />
+        <option value="$PROJECT_DIR$/src/MainFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="423" />
+    <option name="width" value="978" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab6_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6_Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab6_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab6_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558889231637" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\Desktop\lab6_Client\src" />
+      <recent name="C:\Users\Евгения\Desktop\lab7_4.0\lab6_Client\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainClient">
+    <configuration name="JOptionPaneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.dialog.JOptionPaneTest" />
+      <module name="lab6_Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.dialog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClient" />
+      <module name="lab6_Client" />
+      <option name="PROGRAM_PARAMETERS" value="3333" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainClient" />
+      <item itemvalue="Application.JOptionPaneTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClient" />
+        <item itemvalue="Application.JOptionPaneTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdcc04b9-fbcc-49ed-8592-210360124e20" name="Default Changelist" comment="" />
+      <created>1552555679364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552555679364</updated>
+      <workItem from="1552555683947" duration="37000" />
+      <workItem from="1552555864006" duration="739000" />
+      <workItem from="1553775442126" duration="165000" />
+      <workItem from="1553775629561" duration="7255000" />
+      <workItem from="1553786275806" duration="592000" />
+      <workItem from="1553862939279" duration="259000" />
+      <workItem from="1553891035851" duration="2535000" />
+      <workItem from="1554032712054" duration="12890000" />
+      <workItem from="1556205038445" duration="1189000" />
+      <workItem from="1556216388129" duration="200000" />
+      <workItem from="1556216598922" duration="17000" />
+      <workItem from="1556216642801" duration="161000" />
+      <workItem from="1556216891632" duration="13000" />
+      <workItem from="1556216928796" duration="3316000" />
+      <workItem from="1556486522015" duration="3601000" />
+      <workItem from="1558728838393" duration="3823000" />
+      <workItem from="1558893936942" duration="2428000" />
+      <workItem from="1558897126791" duration="1199000" />
+      <workItem from="1558898628294" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16976556" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.12417219" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22847682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46458924" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3328551" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35234898" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((MainFrame)this).languageMenu" custom="MainFrame" />
+        <watch expression="myTable.tableHeader" />
+        <watch expression="myTable.tableHeader" language="JAVA" />
+        <watch expression="myTable.tableHeader" language="JAVA" />
+        <watch expression="((TardisModel)((MyTable)myTable.tableHeader.table).dataModel).circles" custom="MyTable,MyTable.TardisModel" />
+        <watch expression="yField" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/RepaintManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="482" selection-start-line="482" selection-end-line="482" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="4793" selection-start-line="4793" selection-end-line="4793" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/awt/AWTAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/table/AbstractTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3520">
+          <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/buttons_el_GR.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/buttons_et_EE.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/buttons_es_HN.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/buttons.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/titles.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/LocalizationManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/titles_el_GR.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/titles_es_HN.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/asciiFiles/titles_et_EE.properties" />
+    <entry file="file://$PROJECT_DIR$/src/localization/run.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="313" column="14" lean-forward="true" selection-start-line="313" selection-start-column="14" selection-end-line="320" selection-end-column="23" />
+          <folding>
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/MyTable.java" />
+    <entry file="file://$USER_HOME$/Downloads/MyTable (1).java" />
+    <entry file="file://$USER_HOME$/Downloads/MyTable (3).java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/RowSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="156" column="24" lean-forward="true" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="2622" column="40" selection-start-line="2622" selection-start-column="40" selection-end-line="2622" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IdentificationMenu.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/table/TableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateWindow.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4888" column="32" lean-forward="true" selection-start-line="4888" selection-start-column="32" selection-end-line="4888" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2021" selection-start-line="2021" selection-end-line="2021" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="3378" column="16" lean-forward="true" selection-start-line="3378" selection-start-column="16" selection-end-line="3378" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/src/ForJson.java" />
+    <entry file="file://$PROJECT_DIR$/src/MainClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="109" column="38" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="108" column="156" selection-start-line="108" selection-start-column="156" selection-end-line="108" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OurDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginOrRegisterWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2662">
+          <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImagePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerMSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeTraveller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphicsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="45" selection-start-line="27" selection-start-column="16" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChangePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientMSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1558898979384" expanded="true" signature="868:1179" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>lab6_Client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab6_Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
